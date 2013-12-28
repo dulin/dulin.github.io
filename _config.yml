@@ -1,0 +1,12 @@
+name: dulin.github.io
+description: Dulin Blog
+url: http://www.dulin.pl
+
+destination:      ./_site
+port:             8080
+exclude: ["README.md", "CNAME"]
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+paginate: 8
