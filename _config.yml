@@ -1,6 +1,6 @@
 name: dulin.github.io
-description: Dulin Blog
-url: http://www.dulin.pl
+description: Dulin Dev Log
+url: http://www.dulin.me.uk
 
 destination:      ./_site
 port:             8080
